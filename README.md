@@ -20,8 +20,8 @@
 
  </div>
  
-<!-- <div align="center">
-  <a href="elishastanley255@gmail.com">
+<div align="center">
+  <!-- <a href="elishastanley255@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a> -->
   <a href="https://www.linkedin.com/in/elisha-stanley/" target="_blank">
