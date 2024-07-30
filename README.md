@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🔭 I’m currently **Software Egnineering Graduate**
+ 🔭 I’m currently **Software Engineering Graduate**
 
  🌱 I’m currently learning **Machine Learning, Deep Learning**
 
