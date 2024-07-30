@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Elisha+Stanley!;" />
 </h1>
 
-<h3 align="center">A passionate Data Analyst & Software Engineer from Tanzania </h3>
+<h3 align="center">A Software Engineer from Tanzania with Passion with DATA</h3>
 
 <br/>
 
 <div align="center">
 
- 🔭 I’m currently **a Final Year Student**
+ 🔭 I’m currently **Software Egnineering Graduate**
 
  🌱 I’m currently learning **Machine Learning, Deep Learning**
 
@@ -19,16 +19,17 @@
 ⚡ Fun fact **the first documented use of the word "data" dates back to the 1600s? It originally meant "something given" in Latin!**
 
  </div>
- 
+
+ <!--
 <div align="center">
   <!-- <a href="elishastanley255@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a> -->
+  </a> 
   <a href="https://www.linkedin.com/in/elisha-stanley/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <!-- <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
   </a> 
 </div>
 
@@ -43,7 +44,7 @@
 
 <br/>
 <hr/>
-<!-- 
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -66,6 +67,7 @@
 <br/><br/>
 
 <hr/>
+-->
 
 <br/>
 
